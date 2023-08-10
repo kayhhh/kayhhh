@@ -1,5 +1,6 @@
 <p align="center">
-    <a href="https://wakatime.com/@cb710a2e-6926-4408-ada5-d04bdfa541f7"><img src="https://wakatime.com/badge/user/cb710a2e-6926-4408-ada5-d04bdfa541f7.svg" alt="Total time coded since Apr 17 2022" /></a>
+    <span>Check out my website! -----></span>
+    <a href="https://kayh.dev">kayh.dev</a>
 </p>
 
 <p align="center">
