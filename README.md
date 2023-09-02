@@ -1,5 +1,4 @@
 <p align="center">
-    <span>Check out my website! -----></span>
     <a href="https://kayh.dev">kayh.dev</a>
 </p>
 
